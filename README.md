@@ -4,8 +4,9 @@
 	* 3. [走马观花](#-1)
 	* 4. [快速开始](#-1)
 	* 5. [鸣谢](#-1)
-	* 6. [注释](#-1)
-		* 6.1. [ojng](#ojng)
+	* 6. [友情链接](#-1)
+	* 7. [注释](#-1)
+		* 7.1. [ojng](#ojng)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -55,13 +56,19 @@
 - [Minecraft](https://www.minecraft.net/zh-hans)
 - [Minecraft Wiki](https://zh.minecraft.wiki/)
 
----
+> 由于这是一个中文文档，所以仅提供对应中文网站的链接
 
 ---
 
-###  6. <a name='-1'></a>注释
+###  6. <a name='-1'></a>友情链接
 
-####  6.1. <a name='ojng'></a>ojng
+[导航帖-b站]()
+
+---
+
+###  7. <a name='-1'></a>注释
+
+####  7.1. <a name='ojng'></a>ojng
 
 ojng是对mc开发工作室Mojang的戏称，具体原因并不是很方便细说
 
